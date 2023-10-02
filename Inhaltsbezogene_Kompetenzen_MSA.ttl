@@ -271,7 +271,7 @@ n1:c6d
 	skos:inScheme n0:;
 	skos:notation "3.11";
 	skos:broader n1:s9p;
-	skos:prefLabel "wenden insbesondere lineare und quadratische Funktionen sowie Exponentialfunktionen der Form f(x)=a∙b;x bei der Beschreibung und Bearbeitung von Problemen an, auch mit Hilfe digitaler Mathematikwerkzeuge,"@de.
+	skos:prefLabel "wenden insbesondere lineare und quadratische Funktionen sowie Exponentialfunktionen der Form f(x)=a∙b^x bei der Beschreibung und Bearbeitung von Problemen an, auch mit Hilfe digitaler Mathematikwerkzeuge,"@de.
 n1:x5b
 	 a skos:Concept;
 	skos:inScheme n0:;
