@@ -1,0 +1,76 @@
+{
+    "id": "2022MaSek1",
+    "title": [
+      {
+        "lang": "de",
+        "value": "2022 Mathematik ESA und MSA"
+      }
+    ],
+    "csv_delimiter": ";",
+    "base": "https://w3id.org/iqb/v51",
+    "outDir": "./",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "a1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Anforderungsbereiche"
+          }
+        ],
+        "description": [
+          {
+            "lang": "de",
+            "value": "Zum Lösen mathematischer Aufgaben werden die prozessbezogenen Kompetenzen in unterschiedlicher Ausprägung benötigt. Diesbezüglich lassen sich drei Anforderungsbereiche für alle Schülerinnen und Schüler unterscheiden. Im Allgemeinen nehmen Anspruch und kognitive Komplexität von Anforderungsbereich I bis Anforderungsbereich III zu. Die Anforderungsbereiche sind für alle prozessbezogenen Kompetenzen wie folgt charakterisiert:"
+          }
+        ]
+      },
+      {
+        "id": "p1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Prozessbezogene Kompetenzen"
+          }
+        ],
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "ie",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Inhaltsbezogene Kompetenzen ESA"
+          }
+        ],
+        "description": [
+          {
+            "lang": "de",
+            "value": "Bei den folgenden inhaltsbezogenen Kompetenzen ist grundsätzlich daran gedacht, dass diese mit und ohne Medien erreicht werden sollen. Abweichungen davon werden explizit an den entsprechenden Stellen erwähnt."
+          }
+        ]
+      },
+      {
+        "id": "im",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Inhaltsbezogene Kompetenzen MSA"
+          }
+        ],
+        "description": [
+          {
+            "lang": "de",
+            "value": "Bei den folgenden inhaltsbezogenen Kompetenzen ist grundsätzlich daran gedacht, dass diese mit und ohne Medien erreicht werden sollen. Abweichungen davon werden explizit an den entsprechenden Stellen erwähnt."
+          }
+        ]
+      }
+    ]
+  }
+  
