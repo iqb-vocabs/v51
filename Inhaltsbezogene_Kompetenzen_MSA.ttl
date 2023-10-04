@@ -271,7 +271,7 @@ n1:c6d
 	skos:inScheme n0:;
 	skos:notation "3.11";
 	skos:broader n1:s9p;
-	skos:prefLabel "wenden insbesondere lineare und quadratische Funktionen sowie Exponentialfunktionen der Form f(x)=a∙b^x bei der Beschreibung und Bearbeitung von Problemen an, auch mit Hilfe digitaler Mathematikwerkzeuge,"@de.
+	skos:prefLabel "wenden insbesondere lineare und quadratische Funktionen sowie Exponentialfunktionen der Form f(x)=a∙b;x bei der Beschreibung und Bearbeitung von Problemen an, auch mit Hilfe digitaler Mathematikwerkzeuge,"@de.
 n1:x5b
 	 a skos:Concept;
 	skos:inScheme n0:;
@@ -468,7 +468,7 @@ n1:z4s
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "2022 Mathematik ESA und MSA - Inhaltsbezogene Kompetenzen MSA"@de;
+	dct:title "Bildungsstandards Mathematik Sek I 2022 - Inhaltsbezogene Kompetenzen MSA"@de;
 	dct:description "Bei den folgenden inhaltsbezogenen Kompetenzen ist grundsätzlich daran gedacht, dass diese mit und ohne Medien erreicht werden sollen. Abweichungen davon werden explizit an den entsprechenden Stellen erwähnt."@de;
 	skos:hasTopConcept
 		n1:g7b,

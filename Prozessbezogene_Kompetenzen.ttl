@@ -692,7 +692,7 @@ n1:s2z
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "2022 Mathematik ESA und MSA - Prozessbezogene Kompetenzen"@de;
+	dct:title "Bildungsstandards Mathematik Sek I 2022 - Prozessbezogene Kompetenzen"@de;
 	skos:hasTopConcept
 		n1:a6b,
 		n1:f2v,

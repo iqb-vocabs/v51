@@ -405,7 +405,7 @@ n1:s4a
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "2022 Mathematik ESA und MSA - Inhaltsbezogene Kompetenzen ESA"@de;
+	dct:title "Bildungsstandards Mathematik Sek I 2022 - Inhaltsbezogene Kompetenzen ESA"@de;
 	dct:description "Bei den folgenden inhaltsbezogenen Kompetenzen ist grundsätzlich daran gedacht, dass diese mit und ohne Medien erreicht werden sollen. Abweichungen davon werden explizit an den entsprechenden Stellen erwähnt."@de;
 	skos:hasTopConcept
 		n1:a3b,

@@ -27,7 +27,7 @@ n1:b2d
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "2022 Mathematik ESA und MSA - Anforderungsbereiche"@de;
+	dct:title "Bildungsstandards Mathematik Sek I 2022 - Anforderungsbereiche"@de;
 	dct:description "Zum Lösen mathematischer Aufgaben werden die prozessbezogenen Kompetenzen in unterschiedlicher Ausprägung benötigt. Diesbezüglich lassen sich drei Anforderungsbereiche für alle Schülerinnen und Schüler unterscheiden. Im Allgemeinen nehmen Anspruch und kognitive Komplexität von Anforderungsbereich I bis Anforderungsbereich III zu. Die Anforderungsbereiche sind für alle prozessbezogenen Kompetenzen wie folgt charakterisiert:"@de;
 	skos:hasTopConcept
 		n1:c6u,
