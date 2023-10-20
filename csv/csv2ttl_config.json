@@ -19,6 +19,8 @@
             "value": "Anforderungsbereiche"
           }
         ],
+        "filenameSource": "a1_Anforderungsbereiche.csv",
+        "filenameTarget": "a1_Anforderungsbereiche.ttl",
         "description": [
           {
             "lang": "de",
@@ -34,6 +36,8 @@
             "value": "Prozessbezogene Kompetenzen"
           }
         ],
+        "filenameSource": "p1_Prozessbezogene.csv",
+        "filenameTarget": "p1_Prozessbezogene.ttl",
         "description": [
           {
             "lang": "de",
@@ -49,6 +53,8 @@
             "value": "Inhaltsbezogene Kompetenzen ESA"
           }
         ],
+        "filenameSource": "ie_Inhaltsbezogen_ESA.csv",
+        "filenameTarget": "ie_Inhaltsbezogen_ESA.ttl",
         "description": [
           {
             "lang": "de",
@@ -64,6 +70,8 @@
             "value": "Inhaltsbezogene Kompetenzen MSA"
           }
         ],
+        "filenameSource": "im_Inhaltsbezogen_MSA.csv",
+        "filenameTarget": "im_Inhaltsbezogen_MSA.ttl",
         "description": [
           {
             "lang": "de",
@@ -73,4 +81,3 @@
       }
     ]
   }
-  
