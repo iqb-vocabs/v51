@@ -6,7 +6,7 @@
         "value": "Bildungsstandards Mathematik Sek I 2022"
       }
     ],
-    "csv_delimiter": ";",
+    "csv_delimiter": ",",
     "base": "https://w3id.org/iqb/v51",
     "outDir": "./",
     "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
