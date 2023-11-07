@@ -1,35 +1,34 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
-@prefix n0: <https://w3id.org/iqb/v51/a1/#>. 
-@prefix n1: <https://w3id.org/iqb/v51/a1/>. 
+@prefix n: <https://w3id.org/iqb/v51/a1/>. 
 
-n1:c6u
+n:c6u
 	 a skos:Concept;
-	skos:inScheme n0:;
+	skos:inScheme n:;
 	skos:notation "1";
-	skos:topConceptOf n0:;
+	skos:topConceptOf n:;
 	skos:prefLabel "Anforderungsbereich I"@de; 
 	skos:description " Reproduzieren"@de. 
-n1:h7q
+n:h7q
 	 a skos:Concept;
-	skos:inScheme n0:;
+	skos:inScheme n:;
 	skos:notation "2";
-	skos:topConceptOf n0:;
+	skos:topConceptOf n:;
 	skos:prefLabel "Anforderungsbereich II"@de; 
 	skos:description " Zusammenhänge herstellen"@de. 
-n1:b2d
+n:b2d
 	 a skos:Concept;
-	skos:inScheme n0:;
+	skos:inScheme n:;
 	skos:notation "3";
-	skos:topConceptOf n0:;
+	skos:topConceptOf n:;
 	skos:prefLabel "Anforderungsbereich III"@de; 
 	skos:description " Verallgemeinern und Reflektieren"@de. 
-n0:
+n:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
 	dct:title "Bildungsstandards Mathematik Sek I 2022 - Anforderungsbereiche"@de;
 	dct:description "Zum Lösen mathematischer Aufgaben werden die prozessbezogenen Kompetenzen in unterschiedlicher Ausprägung benötigt. Diesbezüglich lassen sich drei Anforderungsbereiche für alle Schülerinnen und Schüler unterscheiden. Im Allgemeinen nehmen Anspruch und kognitive Komplexität von Anforderungsbereich I bis Anforderungsbereich III zu. Die Anforderungsbereiche sind für alle prozessbezogenen Kompetenzen wie folgt charakterisiert:"@de;
 	skos:hasTopConcept
-		n1:c6u,
-		n1:h7q,
-		n1:b2d.
+		n:c6u,
+		n:h7q,
+		n:b2d.
