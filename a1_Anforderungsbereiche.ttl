@@ -24,12 +24,6 @@ n1:b2d
 	skos:topConceptOf n0:;
 	skos:prefLabel "Anforderungsbereich III"@de; 
 	skos:description " Verallgemeinern und Reflektieren"@de. 
-n1:d9g
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "4";
-	skos:topConceptOf n0:;
-	skos:prefLabel "extra"@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
@@ -38,5 +32,4 @@ n0:
 	skos:hasTopConcept
 		n1:c6u,
 		n1:h7q,
-		n1:b2d,
-		n1:d9g.
+		n1:b2d.
