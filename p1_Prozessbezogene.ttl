@@ -1,5 +1,6 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
 @prefix n0: <https://w3id.org/iqb/v51/p1/>. 
 @prefix n1: <https://w3id.org/iqb/v51/p1/>. 
 
@@ -693,6 +694,8 @@ n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
 	dct:title "Bildungsstandards Mathematik Sek I 2022 - Prozessbezogene Kompetenzen"@de;
+	dc:title "Bildungsstandards Mathematik Sek I 2022 - Prozessbezogene Kompetenzen"@de;
+	dc:description "Bildungsstandards Mathematik Sek I 2022 - Prozessbezogene Kompetenzen"@de;
 	skos:hasTopConcept
 		n1:a6b,
 		n1:f2v,
